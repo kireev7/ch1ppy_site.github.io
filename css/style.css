@@ -62,3 +62,16 @@ body{
 .esp1no:hover{
   box-shadow: 12px 12px 2px 1px rgba(158, 118, 32, .2);
 }
+/* ============= */
+.avr2av{
+  height: auto;
+  background: rgb(166,195,2);
+  background: linear-gradient(0deg, rgba(240, 123, 115,0.8309698879551821) 0%, rgba(71,76,251,1) 100%);
+  border-radius: 30px;
+  transition: box-shadow 0.5s;
+}
+
+.avr2av:hover{
+  box-shadow: 12px 12px 2px 1px rgba(158, 118, 32, .2);
+}
+
